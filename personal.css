@@ -1,0 +1,64 @@
+.header{
+    background-image: url(header-bg.png);
+    overflow: hidden;
+}
+.margin{
+    margin-top: 6%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+.name-highlight{
+    color: #e83e8c;
+    font-weight: 700px;
+}
+
+img{
+    width: 100%;
+}
+.btns{
+    text-decoration: none;
+    background-image: linear-gradient(-225deg,deeppink,salmon);
+    border-radius: 5px;
+    padding: 5px 20px;
+    color:white;
+}
+.biography{
+    background-image: url(biography-bg.png);
+    height: 100%;
+    overflow: hidden;
+}
+.Biography{
+    margin-top: 25%;
+}
+.bd{
+    margin-top: 10%;
+    font-size: medium;
+}
+.my-latest-work{
+    background-image: url(latest-work-bg.png);
+    overflow: hidden;
+}
+.footer{
+    background-image: url(footer-bg.png);
+}
+.align-center{
+    text-align: center;
+}
+.img-align{
+    width: 23.33%; 
+    height: 9%;
+    float: left;
+    margin: 5% 5% ;
+}
+.text{
+    margin-top: 3%;
+}
+.message-box{
+    background-image: linear-gradient(-225deg,deeppink,salmon);
+    border-radius: 5px;
+    margin: 0 25%;
+    padding: 3%;
+}
